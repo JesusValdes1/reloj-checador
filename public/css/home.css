@@ -1,0 +1,7 @@
+.card-tools .btn-tool, .card-tools .dropdown-menu .dropdown-item i {
+	transition: transform 0.2s linear;
+}
+
+.card-tools .btn-tool:hover, .card-tools .dropdown-menu .dropdown-item:hover i {
+	transform: scale(1.5238);
+}
